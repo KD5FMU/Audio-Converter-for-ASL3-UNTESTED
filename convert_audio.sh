@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# This file was created by Freddie Mac - KD5FMU with the help of ChatGpt
+# on November 14th, 2024
+
+# This file was created to make the audio file conversion process more pleasent 
+# and easy so that customized audio files may be used for many purposes as well as custom
+# ID's and announcements
+
+# Just customize the patch of your audio files in the 'DIRECTORY" line below
+
 # Directory containing the MP3 or WAV files to be converted
 DIRECTORY='/path/to/your/audio/files'
 
