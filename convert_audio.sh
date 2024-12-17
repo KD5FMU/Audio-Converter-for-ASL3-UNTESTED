@@ -10,7 +10,7 @@
 # Just customize the patch of your audio files in the 'DIRECTORY" line below
 
 # Directory containing the MP3 or WAV files to be converted
-DIRECTORY='/path/to/your/audio/files'
+DIRECTORY='/var/lib/audio'
 
 # Loop through all MP3 and WAV files in the specified directory
 for file in "$DIRECTORY"/*.{mp3,wav}
